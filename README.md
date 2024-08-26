@@ -1,12 +1,12 @@
-
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=530&lines=Hello%F0%9F%91%8B%2C+My+name+is+Muhammad+Abdelmoniem;Mechatronics+Robotics+Engineer%F0%9F%A4%96)](https://git.io/typing-svg)
-</h1>   
 
-<h3 align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=530&lines=Hello%F0%9F%91%8B%2C+My+My+name+is+Muhammad+Abdelmoniem;An+enthusiast+Robotics+software+engineer%F0%9F%A4%96)](https://git.io/typing-svg)
+</h1> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=men3m-4" alt="men3m-4" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/ya77ya/ya77ya/blob/main/Robot.gif?raw=true">
+
 
 <p align="left"> <a href="https://twitter.com/mo_3bdelmon3m" target="blank"><img src="https://img.shields.io/twitter/follow/mo_3bdelmon3m?logo=twitter&style=for-the-badge" alt="mo_3bdelmon3m" /></a> </p>
 
