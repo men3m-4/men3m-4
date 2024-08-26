@@ -1,7 +1,7 @@
 
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=530&lines=Hello%F0%9F%91%8B%2C+My+name+is+Muhammad+Abdelmoniem;Mechatronics+&+Robotics+Engineer%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=530&lines=Hello%F0%9F%91%8B%2C+My+name+is+Muhammad+Abdelmoniem;Mechatronics+Robotics+Engineer%F0%9F%A4%96)](https://git.io/typing-svg)
 </h1>   
 
 <h3 align="center">
