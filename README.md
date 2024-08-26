@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammad Abdelmoniem</h1>
-<h3 align="center">Mechatronics & Robotics Engineer</h3>
+
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=530&lines=Hello%F0%9F%91%8B%2C+My+name+is+Muhammad+Abdelmoniem;Mechatronics+&+Robotics+Engineer%F0%9F%A4%96)](https://git.io/typing-svg)
+</h1>   
+
+<h3 align="center">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=men3m-4" alt="men3m-4" /></a> </p>
 
