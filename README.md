@@ -2,7 +2,7 @@
 <h1 align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=530&lines=Hello%F0%9F%91%8B%2C+My+My+name+is+Muhammad+Abdelmoniem;An+enthusiast+Robotics+software+engineer%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=530&lines=Hello%F0%9F%91%8B%2C+My+name+is+Muhammad+Abdelmoniem;An+enthusiast+Robotics+software+engineer%F0%9F%A4%96)](https://git.io/typing-svg)
 </h1> 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ya77ya/ya77ya/blob/main/Robot.gif?raw=true">
