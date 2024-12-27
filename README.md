@@ -8,11 +8,6 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/ya77ya/ya77ya/blob/main/Robot.gif?raw=true">
 
 
-<p align="left"> <a href="https://twitter.com/mo_3bdelmon3m" target="blank"><img src="https://img.shields.io/twitter/follow/mo_3bdelmon3m?logo=twitter&style=for-the-badge" alt="mo_3bdelmon3m" /></a> </p>
-
-- 🌱 I’m currently learning **a lot of things that I hope to finish**
-
-- 💬 Ask me about **anything, I will not hesitate to help you**
 
 - 📫 How to reach me **muhammad.abdelmoniem4@gmail.com**
 
@@ -29,6 +24,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=men3m-4&show_icons=true&locale=en&layout=compact" alt="men3m-4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=men3m-4&show_icons=true&locale=en" alt="men3m-4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=men3m-4&" alt="men3m-4" /></p>
+
