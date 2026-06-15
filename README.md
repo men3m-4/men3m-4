@@ -6,9 +6,9 @@
 
 
 
-[![▶ Watch Intro Video](https://raw.githubusercontent.com/men3m-4/men3m-4/main/assets/ma.gif)]
+![▶ Watch Intro Video](https://raw.githubusercontent.com/men3m-4/men3m-4/main/assets/ma.gif)
 
-<sub>▲ Click to watch · Pixel-art animated intro</sub>
+
 
 </div>
 
@@ -21,7 +21,7 @@
 <div align="center">
 
 <a href="https://men3m-4.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Mohamed+Abdelmoniem+Mosaad;Robotics+%26+Autonomous+Systems+Engineer;ROS+2+%7C+Navigation+%7C+SLAM+%7C+Control;Building+machines+that+think+and+move." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Mohamed+Abdelmoniem;Robotics+%26+Autonomous+Systems+Engineer;ROS+2+%7C+Navigation+%7C+SLAM+%7C+Control;Building+machines+that+think+and+move." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-abdelmoniem-909a04302)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://men3m-4.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.abdelmoniem4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/men3m-4)
+
 [![Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mo_3bdelmon3m)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=men3m-4&color=00D4FF&style=flat-square&label=Profile+Views)
