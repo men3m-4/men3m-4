@@ -30,7 +30,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://men3m-4.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.abdelmoniem4@gmail.com)
 
-[![Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mo_3bdelmon3m)
+<!-- [![Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mo_3bdelmon3m) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=men3m-4&color=00D4FF&style=flat-square&label=Profile+Views)
 
@@ -38,33 +38,15 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     PROFESSIONAL SUMMARY                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🤖 About Me
-
-```yaml
-name        : Mohamed Abdelmoniem 
-role        : Robotics & Autonomous Systems Engineer
-location    : Dubai, UAE 
-degree      : B.Sc. Mechatronics & Robotics Engineering  |  GPA: 3.72 / 4.0
-focus areas : Autonomous Navigation · ROS 2 · SLAM · Sensor Fusion · Control Systems
-current     : Engineer @ CodeTen  Engineering
-flagship    : Naima — Autonomous Ground Vehicle (ROS 2 · ZED 2 · Nav2 · EKF)
-open to     : Robotics Engineer · Autonomous Systems Engineer · ROS Developer
-```
-
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🚗 Featured Projects
+##  Featured Projects
 
-### 🔵 Naima — Autonomous Ground Vehicle
+### Naima — Autonomous Ground Vehicle
 > *Full-stack autonomous vehicle built on ROS 2 Humble*
 
 [![Naima Repo](https://img.shields.io/badge/GitHub-Naima-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/men3m-4/Naima.git)
@@ -91,7 +73,7 @@ open to     : Robotics Engineer · Autonomous Systems Engineer · ROS Developer
 
 ---
 
-### 🏎️ Neutrino Racing Team — Autonomous Systems Lead
+###  Neutrino Racing Team 
 > *Competitive EV & Autonomous Vehicle Racing Team (2022–2025)*
 
 ![ROS1](https://img.shields.io/badge/ROS%201-Noetic-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -149,7 +131,7 @@ open to     : Robotics Engineer · Autonomous Systems Engineer · ROS Developer
 <!--                 ROBOTICS EXPERTISE BREAKDOWN                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🧭 Robotics Expertise
+## Robotics Expertise
 
 <table>
 <tr>
@@ -196,7 +178,7 @@ open to     : Robotics Engineer · Autonomous Systems Engineer · ROS Developer
 <!--                     GITHUB STATISTICS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
